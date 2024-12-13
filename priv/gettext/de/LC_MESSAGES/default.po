@@ -1,11 +1,11 @@
 ## "msgid"s in this file come from POT (.pot) files.
-##
-## Do not add, change, or remove "msgid"s manually here as
-## they're tied to the ones in the corresponding POT file
-## (with the same domain).
-##
-## Use "mix gettext.extract --merge" or "mix gettext.merge"
-## to merge POT files into PO files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
 msgid ""
 msgstr ""
 "Language: de\n"
@@ -45,7 +45,7 @@ msgstr "Wechselrichter-Gruppe"
 
 #, elixir-autogen
 msgid "Load"
-msgstr "Laden"
+msgstr "Last"
 
 #, elixir-autogen
 msgid "Solar PV"
@@ -61,7 +61,7 @@ msgstr "Diagramme"
 
 #, elixir-autogen
 msgid "Configuration"
-msgstr "Einrichtung"
+msgstr "Konfiguration"
 
 #, elixir-autogen
 msgid "Date"
@@ -113,7 +113,7 @@ msgstr "Die Prämie ist die Preisabweichung vom Durchschnitt."
 
 #, elixir-autogen
 msgid "The schedules above are sourced from <a href=\"https://solar-assistant.io/help/grid/eskom#where-does-the-data-come-from\" target=\"_blank\">eskom-calendar</a>"
-msgstr "Die obigen Zeitpläne stammen aus folgenden Quellen <a href=\"https://solar-assistant.io/help/grid/eskom#where-does-the-data-come-from\" target=\"_blank\">calendarul eskom</a>"
+msgstr "Die oben genannten Zeitpläne stammen aus folgenden Quellen <a href=\"https://solar-assistant.io/help/grid/eskom#where-does-the-data-come-from\" target=\"_blank\">calendarul eskom</a>"
 
 #, elixir-autogen
 msgid "Totals"
@@ -121,11 +121,11 @@ msgstr "Gesamt"
 
 #, elixir-autogen, elixir-format
 msgid "%{amount} hours"
-msgstr "%{amount} Stunde"
+msgstr "%{amount} Stunden"
 
 #, elixir-autogen, elixir-format
 msgid "%{amount} mins"
-msgstr "%{amount} Minute"
+msgstr "%{amount} Minuten"
 
 #, elixir-autogen, elixir-format
 msgid "1 hour"
@@ -145,15 +145,15 @@ msgstr "Automatisierungsprotokoll"
 
 #, elixir-autogen, elixir-format
 msgid "Automations are suspended until"
-msgstr "Automatisierungen deaktiviert, bis"
+msgstr "Automatisierungen deaktiviert bis"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Battery charged"
-msgstr "Batterie-Ladung"
+msgstr "Batterie geladen"
 
 #, elixir-autogen, elixir-format
 msgid "Battery discharged"
-msgstr "Batterie-Entladung"
+msgstr "Batterie entladen"
 
 #, elixir-autogen, elixir-format
 msgid "Cancel"
@@ -169,11 +169,11 @@ msgstr "Je nach Wechselrichtermodell sind die Messungen nicht ganz genau. Einige
 
 #, elixir-autogen, elixir-format
 msgid "Grid exported"
-msgstr "Netz Exporte"
+msgstr "Ins Netz eingespeist"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Grid used"
-msgstr "Netznutzung"
+msgstr "Netzbezug"
 
 #, elixir-autogen, elixir-format
 msgid "Not connected"
@@ -197,7 +197,7 @@ msgstr "Die von dem/den Wechselrichter(n) selbst verbrauchte Energie ist nicht i
 
 #, elixir-autogen, elixir-format
 msgid "edit"
-msgstr "ändern"
+msgstr "bearbeiten"
 
 #, elixir-autogen
 msgid "Activate"
@@ -213,7 +213,7 @@ msgstr "Aktivierung ungültig"
 
 #, elixir-autogen, elixir-format
 msgid "Add automation"
-msgstr "Automation hinzufügen"
+msgstr "Automatisierung hinzufügen"
 
 #, elixir-autogen, elixir-format
 msgid "Any"
@@ -221,15 +221,15 @@ msgstr "Alle"
 
 #, elixir-autogen, elixir-format
 msgid "Apply update and restart"
-msgstr "Updaten und neustarten"
+msgstr "Update anwenden und neu starten"
 
 #, elixir-autogen, elixir-format
 msgid "Are you sure you want to delete this automation?"
-msgstr "Sicher, dass sie die Automation löschen möchten?"
+msgstr "Sind Sie sicher, dass Sie diese Automatisierung löschen möchten?"
 
 #, elixir-autogen, elixir-format
 msgid "Automation #%{number}"
-msgstr "Automation #%{number}"
+msgstr "Automatisierung #%{number}"
 
 #, elixir-autogen, elixir-format
 msgid "Auxiliary"
@@ -237,23 +237,23 @@ msgstr "Hilfsmittel"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Battery %{number}"
-msgstr "Batterie %{number}!"
+msgstr "Batterie %{number}"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Battery charging"
-msgstr "Batterie Ladung"
+msgstr "Batterieladung"
 
 #, elixir-autogen, elixir-format
 msgid "Battery configuration"
-msgstr "Batterie Einstellungen"
+msgstr "Batterieeinstellungen"
 
 #, elixir-autogen, elixir-format
 msgid "Battery equalization"
-msgstr "Batterie Ausgleich"
+msgstr "Batterieausgleich"
 
 #, elixir-autogen, elixir-format
 msgid "Battery temperature"
-msgstr "Batterie Temperatur"
+msgstr "Batterietemperatur"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Battery type"
@@ -261,7 +261,7 @@ msgstr "Batterietyp"
 
 #, elixir-autogen, elixir-format
 msgid "Charge settings"
-msgstr "Lade-Einstellungen"
+msgstr "Ladeeinstellungen"
 
 #, elixir-autogen, elixir-format
 msgid "Clear historic data"
@@ -277,11 +277,11 @@ msgstr "Konfigurieren"
 
 #, elixir-autogen, elixir-format
 msgid "Configure local access"
-msgstr "Lokalen Zugang konfigurieren"
+msgstr "Lokalen Zugriff konfigurieren"
 
 #, elixir-autogen, elixir-format
 msgid "Connect"
-msgstr "Verbunden"
+msgstr "Verbinden"
 
 #, elixir-autogen, elixir-format
 msgid "Disabled"
@@ -289,7 +289,7 @@ msgstr "Deaktiviert"
 
 #, elixir-autogen, elixir-format
 msgid "Discharge settings"
-msgstr "Einstellungen zur Entladung"
+msgstr "Entladeeinstellungen"
 
 #, elixir-autogen, elixir-format
 msgid "Disconnect"
@@ -321,7 +321,7 @@ msgstr "Zeitplan Netzladung"
 
 #, elixir-autogen, elixir-format
 msgid "Grid settings"
-msgstr "Netz-Einstellungen"
+msgstr "Netzeinstellungen"
 
 #, elixir-autogen, elixir-format
 msgid "Input/output"
@@ -329,7 +329,7 @@ msgstr "Input/Output"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Miscellaneous"
-msgstr "Diverse"
+msgstr "Verschiedene"
 
 #, elixir-autogen, elixir-format
 msgid "No"
@@ -345,11 +345,11 @@ msgstr "Packen und herunterfahren"
 
 #, elixir-autogen, elixir-format
 msgid "Peak shift schedule"
-msgstr "Zeitplan für Spitzenzeiten"
+msgstr "Zeitplan für Spitzenlast"
 
 #, elixir-autogen, elixir-format
 msgid "Priority settings"
-msgstr "Einstellungen für Prioritäten"
+msgstr "Prioritätseinstellungen"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Reactivate device"
@@ -361,7 +361,7 @@ msgstr "Neustart"
 
 #, elixir-autogen, elixir-format
 msgid "Register site"
-msgstr "Registrierung"
+msgstr "Standort registrieren"
 
 #, elixir-autogen, elixir-format
 msgid "Remove"
@@ -369,7 +369,7 @@ msgstr "Entfernen"
 
 #, elixir-autogen, elixir-format
 msgid "Resample totals"
-msgstr "Summen neu berechnen"
+msgstr "Gesamtsummen neu berechnen"
 
 #, elixir-autogen, elixir-format
 msgid "Scan"
@@ -385,11 +385,11 @@ msgstr "Ausschalten"
 
 #, elixir-autogen, elixir-format
 msgid "Smart load settings"
-msgstr "Smart Load Einstellungen"
+msgstr "Einstellungen für intelligente Lasten"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Solar PV settings"
-msgstr "Solar PV Einstellungen"
+msgstr "Solar-PV-Einstellungen"
 
 #, elixir-autogen, elixir-format
 msgid "Specification"
@@ -401,7 +401,7 @@ msgstr "Stufe %{amount}"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Stop"
-msgstr "Stop"
+msgstr "Stopp"
 
 #, elixir-autogen, elixir-format
 msgid "Timer schedule"
@@ -417,11 +417,11 @@ msgstr "Arbeitsmodus"
 
 #, elixir-autogen, elixir-format
 msgid "Work mode schedule"
-msgstr "Zeitplan des Arbeitsmodus"
+msgstr "Zeitplan für den Arbeitsmodus"
 
 #, elixir-autogen, elixir-format
 msgid "browse"
-msgstr "Browse"
+msgstr "durchsuchen"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "cancel"
@@ -441,7 +441,7 @@ msgstr "Alle anzeigen"
 
 #, elixir-autogen, elixir-format
 msgid "view detail"
-msgstr "Detailansicht"
+msgstr "Details anzeigen"
 
 #, elixir-autogen, elixir-format
 msgid "Add"
@@ -453,15 +453,15 @@ msgstr "Und wenn <br/>%{condition}"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Are you sure you want to disable this automation?"
-msgstr "Sind Sie sicher, dass Sie diese Automatisierung deaktivieren möchten??"
+msgstr "Sind Sie sicher, dass Sie diese Automatisierung deaktivieren möchten?"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Are you sure you want to enable this automation?"
-msgstr "Sind Sie sicher, dass Sie diese Automatisierung aktivieren möchten??"
+msgstr "Sind Sie sicher, dass Sie diese Automatisierung aktivieren möchten?"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Automations"
-msgstr "Automatisierung"
+msgstr "Automatisierungen"
 
 #, elixir-autogen, elixir-format
 msgid "Automations enable you to set inverter settings based on a schedule, battery state of charge, grid outage or other condition."
@@ -537,7 +537,7 @@ msgstr "DC"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Disable"
-msgstr "Ausschalten"
+msgstr "Deaktivieren"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Enable"
@@ -545,23 +545,23 @@ msgstr "Einschalten"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Grid mode"
-msgstr "Netz Modus"
+msgstr "Netzmodus"
 
 #, elixir-autogen, elixir-format
 msgid "Grid mode (SBU)"
-msgstr "Netz Modus (SBU)"
+msgstr "Netzmodus (SBU)"
 
 #, elixir-autogen, elixir-format
 msgid "Hybrid mode"
-msgstr "Hybrid Modus"
+msgstr "Hybridmodus"
 
 #, elixir-autogen, elixir-format
 msgid "Solar/Battery mode"
-msgstr "Solar/Batterie Modus"
+msgstr "Solar/Batterie-Modus"
 
 #, elixir-autogen, elixir-format
 msgid "Solar/Grid mode"
-msgstr "Solar/Netz Modus"
+msgstr "Solar/Netz-Modus"
 
 #, elixir-autogen, elixir-format
 msgid "average"
@@ -601,11 +601,11 @@ msgstr "Transformator"
 
 #, elixir-autogen, elixir-format
 msgid "Clear EULA acceptance"
-msgstr "Akzeptanz der EULA löschen"
+msgstr "EULA-Akzeptanz löschen"
 
 #, elixir-autogen, elixir-format
 msgid "Clear WiFi SSID and password"
-msgstr "Löscher WLAN SSID und Passwort"
+msgstr "WLAN SSID und Passwort löschen"
 
 #, elixir-autogen, elixir-format
 msgid "Clear password if set"
@@ -637,7 +637,7 @@ msgstr "Gerät wurde aktiviert"
 
 #, elixir-autogen, elixir-format
 msgid "Device not activated yet."
-msgstr "Gerät derzeit nicht aktiviert."
+msgstr "Gerät noch nicht aktiviert."
 
 #, elixir-autogen, elixir-format
 msgid "Enter WiFi details or connect ETH cable"
@@ -649,7 +649,7 @@ msgstr "Allgemein"
 
 #, elixir-autogen, elixir-format
 msgid "If you still see a %{app_name} WiFI hotspot, then it was unable to connect to the WiFi network."
-msgstr "Wenn Sie immer noch einen %{app_name} WiFI-Hotspot sehen, konnte keine Verbindung zum WiFi-Netzwerk herstellen."
+msgstr "Wenn Sie immer noch einen %{app_name} WLAN-Hotspot sehen, konnte keine Verbindung zum WLAN-Netzwerk herstellen."
 
 #, elixir-autogen, elixir-format
 msgid "Internet connection is required to finalize setup."
@@ -657,11 +657,11 @@ msgstr "Zum Abschluss der Einrichtung ist eine Internetverbindung erforderlich."
 
 #, elixir-autogen, elixir-format
 msgid "Is it blocked by firewall?"
-msgstr "Ist es durch eine Firewall geblockt?"
+msgstr "Wird es durch eine Firewall blockiert?"
 
 #, elixir-autogen, elixir-format
 msgid "Network status"
-msgstr "Netzwerk Status"
+msgstr "Netzwerkstatus"
 
 #, elixir-autogen, elixir-format
 msgid "Next steps"
@@ -689,7 +689,7 @@ msgstr "Netzwerk wählen"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Shutdown device"
-msgstr "Gerät herunterfahren"
+msgstr "Herunterfahren"
 
 #, elixir-autogen, elixir-format
 msgid "Site ID"
@@ -697,7 +697,7 @@ msgstr "Eigentümer ID"
 
 #, elixir-autogen, elixir-format
 msgid "Site owner"
-msgstr "Eigentümer "
+msgstr "Eigentümer"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Status"
@@ -705,15 +705,15 @@ msgstr "Status"
 
 #, elixir-autogen, elixir-format
 msgid "To prepare the device for customer use, select \"Package and shutdown\" to"
-msgstr "Um das Gerät für den Einsatz beim Kunden vorzubereiten, wählen Sie „Verpacken und Abschalten“, um"
+msgstr "Um das Gerät für den Kunden vorzubereiten, wählen Sie \"Verpacken und Herunterfahren\"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Total"
-msgstr "Total"
+msgstr "Gesamt"
 
 #, elixir-autogen, elixir-format
 msgid "Trial until"
-msgstr "Testzeit bis"
+msgstr "Testzeitraum bis"
 
 #, elixir-autogen, elixir-format
 msgid "Unable to connect to %{url} to finalize setup."
@@ -725,11 +725,11 @@ msgstr "Nicht registriert"
 
 #, elixir-autogen, elixir-format
 msgid "View site on %{url}"
-msgstr "Seite anzeigen auf %{url}"
+msgstr "Standort anzeigen auf %{url}"
 
 #, elixir-autogen, elixir-format
 msgid "WiFi network"
-msgstr "WLAN Netzwerk"
+msgstr "WLAN-Netzwerk"
 
 #, elixir-autogen, elixir-format
 msgid "Advanced"
@@ -745,7 +745,7 @@ msgstr "Soll MQTT gestoppt werden?"
 
 #, elixir-autogen, elixir-format
 msgid "CPU Temperature"
-msgstr "CPU Temperatur"
+msgstr "CPU-Temperatur"
 
 #, elixir-autogen, elixir-format
 msgid "Confirm USB power supply is 5V and 3A."
@@ -765,7 +765,7 @@ msgstr "Download fertig"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Downloading"
-msgstr "Downloading"
+msgstr "Herunterladen"
 
 #, elixir-autogen, elixir-format
 msgid "Localization"
@@ -773,7 +773,7 @@ msgstr "Lokalisierung"
 
 #, elixir-autogen, elixir-format
 msgid "MQTT Broker"
-msgstr "MQTT Broker"
+msgstr "MQTT-Broker"
 
 #, elixir-autogen, elixir-format
 msgid "Port"
@@ -781,11 +781,11 @@ msgstr "Port"
 
 #, elixir-autogen, elixir-format
 msgid "Services"
-msgstr "Service"
+msgstr "Dienste"
 
 #, elixir-autogen, elixir-format
 msgid "Software version"
-msgstr "Software Version"
+msgstr "Softwareversion"
 
 #, elixir-autogen, elixir-format, fuzzy
 msgid "Storage"
@@ -821,7 +821,7 @@ msgstr "Schnittstelle"
 
 #, elixir-autogen, elixir-format
 msgid "Model"
-msgstr "Model"
+msgstr "Modell"
 
 #, elixir-autogen, elixir-format
 msgid "No matching devices found."
@@ -829,11 +829,11 @@ msgstr "Keine passenden Geräte gefunden."
 
 #, elixir-autogen, elixir-format
 msgid "Note more than one USB ports can selected."
-msgstr "Hinweis: Mehr als ein USB Port auswählbar."
+msgstr "Beachten Sie, dass mehr als ein USB-Anschluss ausgewählt werden kann."
 
 #, elixir-autogen, elixir-format
 msgid "Note more than one connection can selected."
-msgstr "Hinweis: Mehr als eines auswählbar."
+msgstr "Beachten Sie, dass mehr als eine Verbindung ausgewählt werden kann."
 
 #, elixir-autogen, elixir-format
 msgid "Save"
