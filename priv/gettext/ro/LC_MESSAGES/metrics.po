@@ -1,0 +1,526 @@
+## "msgid"s in this file come from POT (.pot) files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid "Current"
+msgstr "Curent PV"
+
+#, fuzzy
+msgid "Voltage"
+msgstr "Tensiune PV"
+
+#, fuzzy
+msgid "Power"
+msgstr "Putere PV"
+
+msgid "State of charge"
+msgstr "Stare de încărcare"
+
+msgid "Capacity"
+msgstr "Capacitate"
+
+msgid "Cycles"
+msgstr "Cicluri"
+
+msgid "Charge capacity"
+msgstr "Capacitate de încărcare"
+
+msgid "Cell temperature"
+msgstr "Temperatura celulei"
+
+msgid "Cell voltage"
+msgstr "Tensiunea celulei"
+
+msgid "Time of day"
+msgstr "Ora din zi"
+
+#, fuzzy
+msgid "Frequency"
+msgstr "Frecvență"
+
+msgid "Device mode"
+msgstr "Modul dispozitivului"
+
+msgid "Provider"
+msgstr "Furnizor"
+
+msgid "Provider connection"
+msgstr "Conexiune cu furnizorul"
+
+msgid "Provider area"
+msgstr "Zona furnizorului"
+
+msgid "Temperature"
+msgstr "Temperatură"
+
+#, fuzzy
+msgid "Temperature MOS"
+msgstr "Temperatură"
+
+#, fuzzy
+msgid "Temperature ENV"
+msgstr "Temperatură"
+
+msgid "Bus voltage"
+msgstr "Tensiunea bus-ului"
+
+msgid "Load percentage"
+msgstr "Procentaj de încărcare"
+
+msgid "Load power"
+msgstr "Putere de încărcare"
+
+msgid "Load apparent power"
+msgstr "Putere aparentă de încărcare"
+
+msgid "AC output voltage"
+msgstr "Tensiune de ieșire AC"
+
+msgid "AC output frequency"
+msgstr "Frecvență de ieșire AC"
+
+msgid "AC output power"
+msgstr "Putere de ieșire AC"
+
+msgid "PV power"
+msgstr "Putere PV"
+
+msgid "PV voltage"
+msgstr "Tensiune PV"
+
+msgid "PV current"
+msgstr "Curent PV"
+
+msgid "Battery state of charge"
+msgstr "Starea de încărcare a bateriei"
+
+msgid "Battery voltage"
+msgstr "Tensiune baterie"
+
+msgid "Battery current"
+msgstr "Curent baterie"
+
+msgid "Battery power"
+msgstr "Putere baterie"
+
+msgid "Grid voltage"
+msgstr "Tensiunea rețelei"
+
+msgid "Grid frequency"
+msgstr "Frecvența rețelei"
+
+msgid "Grid power"
+msgstr "Puterea rețelei"
+
+msgid "Output source priority"
+msgstr "Prioritatea sursei de ieșire"
+
+msgid "AC input voltage range"
+msgstr "Gama de tensiune de intrare AC"
+
+msgid "Back to battery capacity"
+msgstr "Înapoi la capacitatea bateriei"
+
+msgid "Back to battery voltage"
+msgstr "Înapoi la tensiunea bateriei"
+
+msgid "Battery absorption charge voltage"
+msgstr "Tensiunea de încărcare de absorbție a bateriei"
+
+#, fuzzy
+msgid "Battery charge current"
+msgstr "Curent de încărcare a bateriei"
+
+#, fuzzy
+msgid "Battery charge power"
+msgstr "Puterea de încărcare a bateriei"
+
+#, fuzzy
+msgid "Battery discharge current"
+msgstr "Curent de descărcare a bateriei"
+
+#, fuzzy
+msgid "Battery discharge power"
+msgstr "Puterea de descărcare a bateriei"
+
+#, fuzzy
+msgid "Battery float charge voltage"
+msgstr "Tensiunea de încărcare flotantă a bateriei"
+
+#, fuzzy
+msgid "Battery type"
+msgstr "Tipul bateriei"
+
+msgid "Buzzer"
+msgstr "Buzzer"
+
+msgid "Charger source priority"
+msgstr "Prioritatea sursei de încărcare"
+
+#, fuzzy
+msgid "Discharge time to shutdown L2"
+msgstr "Timp de descărcare până la oprirea L2"
+
+msgid "Firmware version"
+msgstr "Versiunea firmware-ului"
+
+msgid "Grid regulation"
+msgstr "Reglementarea rețelei"
+
+msgid "LCD backlight"
+msgstr "Iluminare de fundal LCD"
+
+msgid "LCD reset to default"
+msgstr "Resetare LCD la valorile implicite"
+
+msgid "Machine type"
+msgstr "Tipul mașinii"
+
+msgid "Max AC input current"
+msgstr "Curent maxim de intrare AC"
+
+msgid "Max AC output apparent power"
+msgstr "Putere aparentă maximă de ieșire AC"
+
+msgid "Max AC output current"
+msgstr "Curent maxim de ieșire AC"
+
+#, fuzzy
+msgid "Max AC output power"
+msgstr "Putere maximă de ieșire AC"
+
+msgid "Max absorption charge time"
+msgstr "Timp maxim de încărcare de absorbție"
+
+msgid "Max charge current"
+msgstr "Curent maxim de încărcare"
+
+msgid "Max grid charge current"
+msgstr "Curent maxim de încărcare de la rețea"
+
+msgid "Max parallel units"
+msgstr "Unități paralele maxime"
+
+msgid "Model name"
+msgstr "Numele modelului"
+
+#, fuzzy
+msgid "Model number"
+msgstr "Numărul modelului"
+
+msgid "Nominal battery voltage"
+msgstr "Tensiunea nominală a bateriei"
+
+msgid "Operation logic"
+msgstr "Logica de funcționare"
+
+msgid "Output mode"
+msgstr "Mod de ieșire"
+
+msgid "Over temperature restart"
+msgstr "Repornire la supratemperatură"
+
+msgid "Overload bypass"
+msgstr "Bypass la suprasarcină"
+
+msgid "Overload restart"
+msgstr "Repornire la suprasarcină"
+
+msgid "PV OK condition"
+msgstr "Condiție PV OK"
+
+#, fuzzy
+msgid "PV charge voltage 1"
+msgstr "Tensiunea de încărcare PV 1"
+
+#, fuzzy
+msgid "PV charge voltage 2"
+msgstr "Tensiunea de încărcare PV 2"
+
+#, fuzzy
+msgid "PV charge voltage 3"
+msgstr "Tensiunea de încărcare PV 3"
+
+#, fuzzy
+msgid "PV current 1"
+msgstr "Curent PV"
+
+#, fuzzy
+msgid "PV current 2"
+msgstr "Curent PV"
+
+#, fuzzy
+msgid "PV current 3"
+msgstr "Curent PV"
+
+#, fuzzy
+msgid "PV power 1"
+msgstr "Putere PV"
+
+#, fuzzy
+msgid "PV power 2"
+msgstr "Putere PV"
+
+#, fuzzy
+msgid "PV power 3"
+msgstr "Putere PV"
+
+#, fuzzy
+msgid "PV voltage 1"
+msgstr "Tensiune PV"
+
+#, fuzzy
+msgid "PV voltage 2"
+msgstr "Tensiune PV"
+
+#, fuzzy
+msgid "PV voltage 3"
+msgstr "Tensiune PV"
+
+#, fuzzy
+msgid "PV power balance"
+msgstr "Putere PV"
+
+msgid "Power saving"
+msgstr "Economie de energie"
+
+msgid "Primary source interrupt alarm"
+msgstr "Alarmă de întrerupere a sursei primare"
+
+msgid "Record fault code"
+msgstr "Înregistrează codul de eroare"
+
+#, fuzzy
+msgid "Shutdown L2 battery capacity"
+msgstr "Capacitatea bateriei la oprirea L2"
+
+#, fuzzy
+msgid "Shutdown L2 hour"
+msgstr "Ora de oprire L2"
+
+msgid "Shutdown battery capacity"
+msgstr "Capacitatea bateriei la oprire"
+
+msgid "Shutdown battery voltage"
+msgstr "Tensiunea bateriei la oprire"
+
+msgid "Solar feed to grid"
+msgstr "Alimentare solară în rețea"
+
+#, fuzzy
+msgid "Start L2 hour"
+msgstr "Ora de pornire L2"
+
+#, fuzzy
+msgid "System and load power"
+msgstr "Puterea sistemului și a încărcării"
+
+msgid "To grid battery capacity"
+msgstr "Capacitatea bateriei către rețea"
+
+msgid "To grid battery voltage"
+msgstr "Tensiunea bateriei către rețea"
+
+msgid "Topology"
+msgstr "Topologie"
+
+msgid "Battery equalization"
+msgstr "Egalizarea bateriei"
+
+msgid "Battery equalize now"
+msgstr "Egalizează bateria acum"
+
+msgid "Battery equalization voltage"
+msgstr "Tensiunea de egalizare a bateriei"
+
+msgid "Battery equalization time"
+msgstr "Timpul de egalizare a bateriei"
+
+msgid "Battery equalization timeout"
+msgstr "Timp de expirare a egalizării bateriei"
+
+msgid "Battery equalization interval"
+msgstr "Intervalul de egalizare a bateriei"
+
+msgid "Battery low voltage alarm start"
+msgstr "Pornirea alarmei de tensiune scăzută a bateriei"
+
+msgid "Battery low voltage alarm stop"
+msgstr "Oprirea alarmei de tensiune scăzută a bateriei"
+
+#, fuzzy
+msgid "Battery over discharge voltage"
+msgstr "Tensiunea de supradescărcare a bateriei"
+
+#, fuzzy
+msgid "Battery over discharge delay"
+msgstr "Întârziere la supradescărcarea bateriei"
+
+msgid "RS485 address"
+msgstr "Adresa RS485"
+
+msgid "System time"
+msgstr "Ora sistemului"
+
+msgid "System date"
+msgstr "Data sistemului"
+
+msgid "Protocol version"
+msgstr "Versiunea protocolului"
+
+#, fuzzy
+msgid "Serial number"
+msgstr "Număr de serie"
+
+msgid "Firmware date"
+msgstr "Data firmware-ului"
+
+msgid "Secondary firmware version"
+msgstr "Versiunea secundară a firmware-ului"
+
+#, fuzzy
+msgid "Battery charge recovery voltage"
+msgstr "Tensiunea de recuperare a încărcării bateriei"
+
+#, fuzzy
+msgid "Max PV charge current"
+msgstr "Curent maxim de încărcare PV"
+
+msgctxt "Monitoring connection"
+msgid "Direct cable"
+msgstr "Cablu direct"
+
+msgctxt "Topology"
+msgid "Transformerless"
+msgstr "Fără transformator"
+
+msgctxt "Machine type"
+msgid "Off Grid"
+msgstr "Off Grid"
+
+msgctxt "Output mode"
+msgid "Single machine output"
+msgstr "Ieșire mașină unică"
+
+msgctxt "Output mode"
+msgid "Parallel output"
+msgstr "Ieșire paralelă"
+
+msgctxt "Output mode"
+msgid "Phase 1 of 3 Phase output"
+msgstr "Faza 1 din ieșirea trifazică"
+
+msgctxt "Output mode"
+msgid "Phase 2 of 3 Phase output"
+msgstr "Faza 2 din ieșirea trifazică"
+
+msgctxt "Output mode"
+msgid "Phase 3 of 3 Phase output"
+msgstr "Faza 3 din ieșirea trifazică"
+
+msgctxt "AC input voltage range"
+msgid "Appliance"
+msgstr "Aparat"
+
+msgctxt "AC input voltage range"
+msgid "UPS"
+msgstr "UPS"
+
+msgctxt "Device mode"
+msgid "Initializing"
+msgstr "Inițializare"
+
+msgctxt "Device mode"
+msgid "Fault"
+msgstr "Defecțiune"
+
+msgctxt "Device mode"
+msgid "Flash"
+msgstr "Blit"
+
+msgctxt "Device mode"
+msgid "Solar/Battery"
+msgstr "Solar/Baterie"
+
+msgctxt "Device mode"
+msgid "Hybrid"
+msgstr "Hibrid"
+
+msgctxt "Device mode"
+msgid "Solar/Grid"
+msgstr "Solar/Rețea"
+
+msgctxt "Device mode"
+msgid "Battery/Grid"
+msgstr "Baterie/Rețea"
+
+msgctxt "Device mode"
+msgid "Grid"
+msgstr "Rețea"
+
+msgctxt "Output source priority"
+msgid "Utility first"
+msgstr "Utilitate prima"
+
+msgctxt "Output source priority"
+msgid "Solar/Utility/Battery"
+msgstr "Solar/Utilitate/Baterie"
+
+msgctxt "Output source priority"
+msgid "Solar/Battery/Utility"
+msgstr "Solar/Baterie/Utilitate"
+
+#, fuzzy
+msgctxt "Charger source priority"
+msgid "Utility first"
+msgstr "Utilitate prima"
+
+msgctxt "Charger source priority"
+msgid "Solar first"
+msgstr "Solar primul"
+
+msgctxt "Charger source priority"
+msgid "Solar and utility simultaneously"
+msgstr "Solar și utilitate simultan"
+
+msgctxt "Charger source priority"
+msgid "Solar only"
+msgstr "Numai solar"
+
+msgctxt "Operation logic"
+msgid "Automatic"
+msgstr "Automat"
+
+msgctxt "Operation logic"
+msgid "Online mode"
+msgstr "Mod online"
+
+msgctxt "Operation logic"
+msgid "ECO mode"
+msgstr "Mod ECO"
+
+msgctxt "Interface status"
+msgid "Up"
+msgstr "Sus"
+
+msgctxt "Interface status"
+msgid "Down"
+msgstr "Jos"
+
+msgctxt "Device connection"
+msgid "Connected"
+msgstr "Conectat"
+
+msgctxt "Device connection"
+msgid "Connecting"
+msgstr "Conectare"

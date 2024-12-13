@@ -1,0 +1,488 @@
+## "msgid"s in this file come from POT (.pot) files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Current"
+msgstr "Proud"
+
+msgid "Voltage"
+msgstr "Napětí"
+
+msgid "Power"
+msgstr "Výkon"
+
+msgid "State of charge"
+msgstr "Stav nabití"
+
+msgid "Capacity"
+msgstr "Kapacita"
+
+msgid "Cycles"
+msgstr "Cykly"
+
+msgid "Charge capacity"
+msgstr "Kapacita nabíjení"
+
+msgid "Cell temperature"
+msgstr "Teplota článku"
+
+msgid "Cell voltage"
+msgstr "Napětí článku"
+
+msgid "Time of day"
+msgstr "Čas dne"
+
+msgid "Frequency"
+msgstr "Frekvence"
+
+msgid "Device mode"
+msgstr "Režim zařízení"
+
+msgid "Provider"
+msgstr "Poskytovatel"
+
+msgid "Provider connection"
+msgstr "Připojení poskytovatele"
+
+msgid "Provider area"
+msgstr "Oblast poskytovatele"
+
+msgid "Temperature"
+msgstr "Teplota"
+
+msgid "Temperature MOS"
+msgstr "Teplota MOS"
+
+msgid "Temperature ENV"
+msgstr "Teplota ENV"
+
+msgid "Bus voltage"
+msgstr "Napětí sběrnice"
+
+msgid "Load percentage"
+msgstr "Procento zátěže"
+
+msgid "Load power"
+msgstr "Výkon zátěže"
+
+msgid "Load apparent power"
+msgstr "Zjevný výkon zátěže"
+
+msgid "AC output voltage"
+msgstr "Výstupní napětí AC"
+
+msgid "AC output frequency"
+msgstr "Výstupní frekvence AC"
+
+msgid "AC output power"
+msgstr "Výstupní výkon AC"
+
+msgid "PV power"
+msgstr "Výkon PV"
+
+msgid "PV voltage"
+msgstr "Napětí PV"
+
+msgid "PV current"
+msgstr "Proud PV"
+
+msgid "Battery state of charge"
+msgstr "Stav nabití baterie"
+
+msgid "Battery voltage"
+msgstr "Napětí baterie"
+
+msgid "Battery current"
+msgstr "Proud baterie"
+
+msgid "Battery power"
+msgstr "Výkon baterie"
+
+msgid "Grid voltage"
+msgstr "Napětí sítě"
+
+msgid "Grid frequency"
+msgstr "Frekvence sítě"
+
+msgid "Grid power"
+msgstr "Výkon sítě"
+
+msgid "Output source priority"
+msgstr "Priorita výstupního zdroje"
+
+msgid "AC input voltage range"
+msgstr "Rozsah vstupního napětí AC"
+
+msgid "Back to battery capacity"
+msgstr "Zpět na kapacitu baterie"
+
+msgid "Back to battery voltage"
+msgstr "Zpět na napětí baterie"
+
+msgid "Battery absorption charge voltage"
+msgstr "Absorpční napětí nabíjení baterie"
+
+msgid "Battery charge current"
+msgstr "Nabíjecí proud baterie"
+
+msgid "Battery charge power"
+msgstr "Nabíjecí výkon baterie"
+
+msgid "Battery discharge current"
+msgstr "Vybijecí proud baterie"
+
+msgid "Battery discharge power"
+msgstr "Vybijecí výkon baterie"
+
+msgid "Battery float charge voltage"
+msgstr "Plovoucí napětí nabíjení baterie"
+
+msgid "Battery type"
+msgstr "Typ baterie"
+
+msgid "Buzzer"
+msgstr "Bzučák"
+
+msgid "Charger source priority"
+msgstr "Priorita zdroje nabíječky"
+
+msgid "Discharge time to shutdown L2"
+msgstr "Čas vybíjení do vypnutí L2"
+
+msgid "Firmware version"
+msgstr "Verze firmware"
+
+msgid "Grid regulation"
+msgstr "Regulace sítě"
+
+msgid "LCD backlight"
+msgstr "Podsvícení LCD"
+
+msgid "LCD reset to default"
+msgstr "Reset LCD na výchozí"
+
+msgid "Machine type"
+msgstr "Typ stroje"
+
+msgid "Max AC input current"
+msgstr "Maximální vstupní proud AC"
+
+msgid "Max AC output apparent power"
+msgstr "Maximální zjevný výstupní výkon AC"
+
+msgid "Max AC output current"
+msgstr "Maximální výstupní proud AC"
+
+msgid "Max AC output power"
+msgstr "Maximální výstupní výkon AC"
+
+msgid "Max absorption charge time"
+msgstr "Maximální doba absorpčního nabíjení"
+
+msgid "Max charge current"
+msgstr "Maximální nabíjecí proud"
+
+msgid "Max grid charge current"
+msgstr "Maximální nabíjecí proud sítě"
+
+msgid "Max parallel units"
+msgstr "Maximální počet paralelních jednotek"
+
+msgid "Model name"
+msgstr "Název modelu"
+
+msgid "Model number"
+msgstr "Číslo modelu"
+
+msgid "Nominal battery voltage"
+msgstr "Jmenovité napětí baterie"
+
+msgid "Operation logic"
+msgstr "Provozní logika"
+
+msgid "Output mode"
+msgstr "Režim výstupu"
+
+msgid "Over temperature restart"
+msgstr "Restart při přehřátí"
+
+msgid "Overload bypass"
+msgstr "Přetížení bypass"
+
+msgid "Overload restart"
+msgstr "Restart při přetížení"
+
+msgid "PV OK condition"
+msgstr "Stav PV OK"
+
+msgid "PV charge voltage 1"
+msgstr "Nabíjecí napětí PV 1"
+
+msgid "PV charge voltage 2"
+msgstr "Nabíjecí napětí PV 2"
+
+msgid "PV charge voltage 3"
+msgstr "Nabíjecí napětí PV 3"
+
+msgid "PV current 1"
+msgstr "Proud PV 1"
+
+msgid "PV current 2"
+msgstr "Proud PV 2"
+
+msgid "PV current 3"
+msgstr "Proud PV 3"
+
+msgid "PV power 1"
+msgstr "Výkon PV 1"
+
+msgid "PV power 2"
+msgstr "Výkon PV 2"
+
+msgid "PV power 3"
+msgstr "Výkon PV 3"
+
+msgid "PV voltage 1"
+msgstr "Napětí PV 1"
+
+msgid "PV voltage 2"
+msgstr "Napětí PV 2"
+
+msgid "PV voltage 3"
+msgstr "Napětí PV 3"
+
+msgid "PV power balance"
+msgstr "Bilance výkonu PV"
+
+msgid "Power saving"
+msgstr "Úspora energie"
+
+msgid "Primary source interrupt alarm"
+msgstr "Alarm přerušení primárního zdroje"
+
+msgid "Record fault code"
+msgstr "Záznam kódu chyby"
+
+msgid "Shutdown L2 battery capacity"
+msgstr "Kapacita baterie při vypnutí L2"
+
+msgid "Shutdown L2 hour"
+msgstr "Hodina vypnutí L2"
+
+msgid "Shutdown battery capacity"
+msgstr "Kapacita baterie při vypnutí"
+
+msgid "Shutdown battery voltage"
+msgstr "Napětí baterie při vypnutí"
+
+msgid "Solar feed to grid"
+msgstr "Solární připojení do sítě"
+
+msgid "Start L2 hour"
+msgstr "Hodina spuštění L2"
+
+msgid "System and load power"
+msgstr "Výkon systému a zátěže"
+
+msgid "To grid battery capacity"
+msgstr "Kapacita baterie do sítě"
+
+msgid "To grid battery voltage"
+msgstr "Napětí baterie do sítě"
+
+msgid "Topology"
+msgstr "Topologie"
+
+msgid "Battery equalization"
+msgstr "Vyrovnání baterie"
+
+msgid "Battery equalize now"
+msgstr "Vyrovnání baterie nyní"
+
+msgid "Battery equalization voltage"
+msgstr "Vyrovnávací napětí baterie"
+
+msgid "Battery equalization time"
+msgstr "Čas vyrovnání baterie"
+
+msgid "Battery equalization timeout"
+msgstr "Vypršení času vyrovnání baterie"
+
+msgid "Battery equalization interval"
+msgstr "Interval vyrovnání baterie"
+
+msgid "Battery low voltage alarm start"
+msgstr "Start alarmu nízkého napětí baterie"
+
+msgid "Battery low voltage alarm stop"
+msgstr "Stop alarmu nízkého napětí baterie"
+
+msgid "Battery over discharge voltage"
+msgstr "Napětí při nadměrném vybití baterie"
+
+msgid "Battery over discharge delay"
+msgstr "Zpoždění při nadměrném vybití baterie"
+
+msgid "RS485 address"
+msgstr "Adresa RS485"
+
+msgid "System time"
+msgstr "Systémový čas"
+
+msgid "System date"
+msgstr "Systémové datum"
+
+msgid "Protocol version"
+msgstr "Verze protokolu"
+
+msgid "Serial number"
+msgstr "Sériové číslo"
+
+msgid "Firmware date"
+msgstr "Datum firmware"
+
+msgid "Secondary firmware version"
+msgstr "Verze sekundárního firmware"
+
+msgid "Battery charge recovery voltage"
+msgstr "Napětí obnovení nabíjení baterie"
+
+msgid "Max PV charge current"
+msgstr "Maximální nabíjecí proud PV"
+
+msgctxt "Monitoring connection"
+msgid "Direct cable"
+msgstr "Přímý kabel"
+
+msgctxt "Topology"
+msgid "Transformerless"
+msgstr "Beztransformátorový"
+
+msgctxt "Machine type"
+msgid "Off Grid"
+msgstr "Mimo síť"
+
+msgctxt "Output mode"
+msgid "Single machine output"
+msgstr "Výstup jednoho stroje"
+
+msgctxt "Output mode"
+msgid "Parallel output"
+msgstr "Paralelní výstup"
+
+msgctxt "Output mode"
+msgid "Phase 1 of 3 Phase output"
+msgstr "Fáze 1 ze 3 fázového výstupu"
+
+msgctxt "Output mode"
+msgid "Phase 2 of 3 Phase output"
+msgstr "Fáze 2 ze 3 fázového výstupu"
+
+msgctxt "Output mode"
+msgid "Phase 3 of 3 Phase output"
+msgstr "Fáze 3 ze 3 fázového výstupu"
+
+msgctxt "AC input voltage range"
+msgid "Appliance"
+msgstr "Spotřebič"
+
+msgctxt "AC input voltage range"
+msgid "UPS"
+msgstr "UPS"
+
+msgctxt "Device mode"
+msgid "Initializing"
+msgstr "Inicializace"
+
+msgctxt "Device mode"
+msgid "Fault"
+msgstr "Porucha"
+
+msgctxt "Device mode"
+msgid "Flash"
+msgstr "Blesk"
+
+msgctxt "Device mode"
+msgid "Solar/Battery"
+msgstr "Solární/Baterie"
+
+msgctxt "Device mode"
+msgid "Hybrid"
+msgstr "Hybridní"
+
+msgctxt "Device mode"
+msgid "Solar/Grid"
+msgstr "Solární/Síť"
+
+msgctxt "Device mode"
+msgid "Battery/Grid"
+msgstr "Baterie/Síť"
+
+msgctxt "Device mode"
+msgid "Grid"
+msgstr "Síť"
+
+msgctxt "Output source priority"
+msgid "Utility first"
+msgstr "Nejprve síť"
+
+msgctxt "Output source priority"
+msgid "Solar/Utility/Battery"
+msgstr "Solární/Síť/Baterie"
+
+msgctxt "Output source priority"
+msgid "Solar/Battery/Utility"
+msgstr "Solární/Baterie/Síť"
+
+msgctxt "Charger source priority"
+msgid "Utility first"
+msgstr "Nejprve síť"
+
+msgctxt "Charger source priority"
+msgid "Solar first"
+msgstr "Nejprve solární"
+
+msgctxt "Charger source priority"
+msgid "Solar and utility simultaneously"
+msgstr "Solární a síť současně"
+
+msgctxt "Charger source priority"
+msgid "Solar only"
+msgstr "Pouze solární"
+
+msgctxt "Operation logic"
+msgid "Automatic"
+msgstr "Automatický"
+
+msgctxt "Operation logic"
+msgid "Online mode"
+msgstr "Režim online"
+
+msgctxt "Operation logic"
+msgid "ECO mode"
+msgstr "Režim ECO"
+
+msgctxt "Interface status"
+msgid "Up"
+msgstr "Nahoru"
+
+msgctxt "Interface status"
+msgid "Down"
+msgstr "Dolů"
+
+msgctxt "Device connection"
+msgid "Connected"
+msgstr "Připojeno"
+
+msgctxt "Device connection"
+msgid "Connecting"
+msgstr "Připojování"

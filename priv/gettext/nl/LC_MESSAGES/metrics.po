@@ -1,0 +1,526 @@
+## "msgid"s in this file come from POT (.pot) files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid "Current"
+msgstr "PV-stroom"
+
+#, fuzzy
+msgid "Voltage"
+msgstr "PV-spanning"
+
+#, fuzzy
+msgid "Power"
+msgstr "PV-vermogen"
+
+msgid "State of charge"
+msgstr "Laadstatus"
+
+msgid "Capacity"
+msgstr "Capaciteit"
+
+msgid "Cycles"
+msgstr "Cycli"
+
+msgid "Charge capacity"
+msgstr "Laadcapaciteit"
+
+msgid "Cell temperature"
+msgstr "Celtemperatuur"
+
+msgid "Cell voltage"
+msgstr "Celspanning"
+
+msgid "Time of day"
+msgstr "Tijd van de dag"
+
+#, fuzzy
+msgid "Frequency"
+msgstr "Frequentie"
+
+msgid "Device mode"
+msgstr "Modalità del dispositivo"
+
+msgid "Provider"
+msgstr "Aanbieder"
+
+msgid "Provider connection"
+msgstr "Verbinding met aanbieder"
+
+msgid "Provider area"
+msgstr "Gebied van de aanbieder"
+
+msgid "Temperature"
+msgstr "Temperatuur"
+
+#, fuzzy
+msgid "Temperature MOS"
+msgstr "MOS-temperatuur"
+
+#, fuzzy
+msgid "Temperature ENV"
+msgstr "Omgevingstemperatuur"
+
+msgid "Bus voltage"
+msgstr "Busspanning"
+
+msgid "Load percentage"
+msgstr "Belastingspercentage"
+
+msgid "Load power"
+msgstr "Belastingsvermogen"
+
+msgid "Load apparent power"
+msgstr "Schijnbaar vermogen van de belasting"
+
+msgid "AC output voltage"
+msgstr "AC-uitgangsspanning"
+
+msgid "AC output frequency"
+msgstr "AC-uitgangsfrequentie"
+
+msgid "AC output power"
+msgstr "AC-uitgangsvermogen"
+
+msgid "PV power"
+msgstr "PV-vermogen"
+
+msgid "PV voltage"
+msgstr "PV-spanning"
+
+msgid "PV current"
+msgstr "PV-stroom"
+
+msgid "Battery state of charge"
+msgstr "Laadstatus van de batterij"
+
+msgid "Battery voltage"
+msgstr "Batterijspanning"
+
+msgid "Battery current"
+msgstr "Batterijstroom"
+
+msgid "Battery power"
+msgstr "Batterijvermogen"
+
+msgid "Grid voltage"
+msgstr "Netspanning"
+
+msgid "Grid frequency"
+msgstr "Netfrequentie"
+
+msgid "Grid power"
+msgstr "Netvermogen"
+
+msgid "Output source priority"
+msgstr "Prioriteit van de uitgaande bron"
+
+msgid "AC input voltage range"
+msgstr "AC-ingangsspanningsbereik"
+
+msgid "Back to battery capacity"
+msgstr "Terug naar batterijcapaciteit"
+
+msgid "Back to battery voltage"
+msgstr "Terug naar batterijspanning"
+
+msgid "Battery absorption charge voltage"
+msgstr "Absorptielaadspanning van de batterij"
+
+#, fuzzy
+msgid "Battery charge current"
+msgstr "Laadstroom van de batterij"
+
+#, fuzzy
+msgid "Battery charge power"
+msgstr "Laadvermogen van de batterij"
+
+#, fuzzy
+msgid "Battery discharge current"
+msgstr "Ontlaadstroom van de batterij"
+
+#, fuzzy
+msgid "Battery discharge power"
+msgstr "Ontlaadvermogen van de batterij"
+
+#, fuzzy
+msgid "Battery float charge voltage"
+msgstr "Druppellaadspanning van de batterij"
+
+#, fuzzy
+msgid "Battery type"
+msgstr "Batterijtype"
+
+msgid "Buzzer"
+msgstr "Zoemer"
+
+msgid "Charger source priority"
+msgstr "Prioriteit van de laadbron"
+
+#, fuzzy
+msgid "Discharge time to shutdown L2"
+msgstr "Ontlaadtijd tot uitschakeling L2"
+
+msgid "Firmware version"
+msgstr "Firmwareversie"
+
+msgid "Grid regulation"
+msgstr "Netregulering"
+
+msgid "LCD backlight"
+msgstr "LCD-achtergrondverlichting"
+
+msgid "LCD reset to default"
+msgstr "LCD resetten naar standaardinstellingen"
+
+msgid "Machine type"
+msgstr "Type machine"
+
+msgid "Max AC input current"
+msgstr "Maximale AC-ingangsstroom"
+
+msgid "Max AC output apparent power"
+msgstr "Maximaal schijnbaar uitgangsvermogen AC"
+
+msgid "Max AC output current"
+msgstr "Maximale AC-uitgangsstroom"
+
+#, fuzzy
+msgid "Max AC output power"
+msgstr "Maximaal AC-uitgangsvermogen"
+
+msgid "Max absorption charge time"
+msgstr "Maximale absorptielaadtijd"
+
+msgid "Max charge current"
+msgstr "Maximale laadstroom"
+
+msgid "Max grid charge current"
+msgstr "Maximale laadstroom van het net"
+
+msgid "Max parallel units"
+msgstr "Maximale parallelle eenheden"
+
+msgid "Model name"
+msgstr "Modelnaam"
+
+#, fuzzy
+msgid "Model number"
+msgstr "Modelnummer"
+
+msgid "Nominal battery voltage"
+msgstr "Nominale batterijspanning"
+
+msgid "Operation logic"
+msgstr "Bedrijfslogica"
+
+msgid "Output mode"
+msgstr "Uitgangsmodus"
+
+msgid "Over temperature restart"
+msgstr "Herstart bij oververhitting"
+
+msgid "Overload bypass"
+msgstr "Overbelastingsbypass"
+
+msgid "Overload restart"
+msgstr "Herstart bij overbelasting"
+
+msgid "PV OK condition"
+msgstr "PV OK-status"
+
+#, fuzzy
+msgid "PV charge voltage 1"
+msgstr "PV-laadspanning 1"
+
+#, fuzzy
+msgid "PV charge voltage 2"
+msgstr "PV-laadspanning 2"
+
+#, fuzzy
+msgid "PV charge voltage 3"
+msgstr "PV-laadspanning 3"
+
+#, fuzzy
+msgid "PV current 1"
+msgstr "PV-stroom"
+
+#, fuzzy
+msgid "PV current 2"
+msgstr "PV-stroom"
+
+#, fuzzy
+msgid "PV current 3"
+msgstr "PV-stroom"
+
+#, fuzzy
+msgid "PV power 1"
+msgstr "PV-vermogen"
+
+#, fuzzy
+msgid "PV power 2"
+msgstr "PV-vermogen"
+
+#, fuzzy
+msgid "PV power 3"
+msgstr "PV-vermogen"
+
+#, fuzzy
+msgid "PV voltage 1"
+msgstr "PV-spanning"
+
+#, fuzzy
+msgid "PV voltage 2"
+msgstr "PV-spanning"
+
+#, fuzzy
+msgid "PV voltage 3"
+msgstr "PV-spanning"
+
+#, fuzzy
+msgid "PV power balance"
+msgstr "PV-vermogen"
+
+msgid "Power saving"
+msgstr "Energiebesparing"
+
+msgid "Primary source interrupt alarm"
+msgstr "Alarm voor onderbreking van de primaire bron"
+
+msgid "Record fault code"
+msgstr "Foutcode vastleggen"
+
+#, fuzzy
+msgid "Shutdown L2 battery capacity"
+msgstr "Capaciteit van de L2-batterij bij uitschakeling"
+
+#, fuzzy
+msgid "Shutdown L2 hour"
+msgstr "Uur van uitschakeling L2"
+
+msgid "Shutdown battery capacity"
+msgstr "Batterijcapaciteit bij uitschakeling"
+
+msgid "Shutdown battery voltage"
+msgstr "Batterijspanning bij uitschakeling"
+
+msgid "Solar feed to grid"
+msgstr "Zonnevoeding naar het net"
+
+#, fuzzy
+msgid "Start L2 hour"
+msgstr "Starttijd L2"
+
+#, fuzzy
+msgid "System and load power"
+msgstr "Systeem- en belastingvermogen"
+
+msgid "To grid battery capacity"
+msgstr "Batterijcapaciteit naar het net"
+
+msgid "To grid battery voltage"
+msgstr "Batterijspanning naar het net"
+
+msgid "Topology"
+msgstr "Topologie"
+
+msgid "Battery equalization"
+msgstr "Batterij-equalisatie"
+
+msgid "Battery equalize now"
+msgstr "Nu batterij-equalisatie"
+
+msgid "Battery equalization voltage"
+msgstr "Equalisatiespanning van de batterij"
+
+msgid "Battery equalization time"
+msgstr "Equalisatietijd van de batterij"
+
+msgid "Battery equalization timeout"
+msgstr "Equalisatietimeout van de batterij"
+
+msgid "Battery equalization interval"
+msgstr "Equalisatie-interval van de batterij"
+
+msgid "Battery low voltage alarm start"
+msgstr "Start van laagspanningsalarm van de batterij"
+
+msgid "Battery low voltage alarm stop"
+msgstr "Stop van laagspanningsalarm van de batterij"
+
+#, fuzzy
+msgid "Battery over discharge voltage"
+msgstr "Overontladingsspanning van de batterij"
+
+#, fuzzy
+msgid "Battery over discharge delay"
+msgstr "Overontladingsvertraging van de batterij"
+
+msgid "RS485 address"
+msgstr "RS485-adres"
+
+msgid "System time"
+msgstr "Systeemtijd"
+
+msgid "System date"
+msgstr "Systeemdatum"
+
+msgid "Protocol version"
+msgstr "Protocolversie"
+
+#, fuzzy
+msgid "Serial number"
+msgstr "Serienummer"
+
+msgid "Firmware date"
+msgstr "Firmwaredatum"
+
+msgid "Secondary firmware version"
+msgstr "Secundaire firmwareversie"
+
+#, fuzzy
+msgid "Battery charge recovery voltage"
+msgstr "Herstelspanning van de batterij"
+
+#, fuzzy
+msgid "Max PV charge current"
+msgstr "Maximale laadstroom van PV"
+
+msgctxt "Monitoring connection"
+msgid "Direct cable"
+msgstr "Directe kabel"
+
+msgctxt "Topology"
+msgid "Transformerless"
+msgstr "Zonder transformator"
+
+msgctxt "Machine type"
+msgid "Off Grid"
+msgstr "Off Grid"
+
+msgctxt "Output mode"
+msgid "Single machine output"
+msgstr "Uitgang van enkele machine"
+
+msgctxt "Output mode"
+msgid "Parallel output"
+msgstr "Parallelle uitgang"
+
+msgctxt "Output mode"
+msgid "Phase 1 of 3 Phase output"
+msgstr "Fase 1 van 3-fase-uitgang"
+
+msgctxt "Output mode"
+msgid "Phase 2 of 3 Phase output"
+msgstr "Fase 2 van 3-fase-uitgang"
+
+msgctxt "Output mode"
+msgid "Phase 3 of 3 Phase output"
+msgstr "Fase 3 van 3-fase-uitgang"
+
+msgctxt "AC input voltage range"
+msgid "Appliance"
+msgstr "Apparaat"
+
+msgctxt "AC input voltage range"
+msgid "UPS"
+msgstr "UPS"
+
+msgctxt "Device mode"
+msgid "Initializing"
+msgstr "Initialiseren"
+
+msgctxt "Device mode"
+msgid "Fault"
+msgstr "Fout"
+
+msgctxt "Device mode"
+msgid "Flash"
+msgstr "Flits"
+
+msgctxt "Device mode"
+msgid "Solar/Battery"
+msgstr "Zonne-energie/Batterij"
+
+msgctxt "Device mode"
+msgid "Hybrid"
+msgstr "Hybride"
+
+msgctxt "Device mode"
+msgid "Solar/Grid"
+msgstr "Zonne-energie/Net"
+
+msgctxt "Device mode"
+msgid "Battery/Grid"
+msgstr "Batterij/Net"
+
+msgctxt "Device mode"
+msgid "Grid"
+msgstr "Net"
+
+msgctxt "Output source priority"
+msgid "Utility first"
+msgstr "Eerst netstroom"
+
+msgctxt "Output source priority"
+msgid "Solar/Utility/Battery"
+msgstr "Zonne-energie/Netstroom/Batterij"
+
+msgctxt "Output source priority"
+msgid "Solar/Battery/Utility"
+msgstr "Zonne-energie/Batterij/Netstroom"
+
+#, fuzzy
+msgctxt "Charger source priority"
+msgid "Utility first"
+msgstr "Eerst netstroom"
+
+msgctxt "Charger source priority"
+msgid "Solar first"
+msgstr "Eerst zonne-energie"
+
+msgctxt "Charger source priority"
+msgid "Solar and utility simultaneously"
+msgstr "Zonne-energie en netstroom gelijktijdig"
+
+msgctxt "Charger source priority"
+msgid "Solar only"
+msgstr "Alleen zonne-energie"
+
+msgctxt "Operation logic"
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgctxt "Operation logic"
+msgid "Online mode"
+msgstr "Online modus"
+
+msgctxt "Operation logic"
+msgid "ECO mode"
+msgstr "ECO modus"
+
+msgctxt "Interface status"
+msgid "Up"
+msgstr "Actief"
+
+msgctxt "Interface status"
+msgid "Down"
+msgstr "Niet actief"
+
+msgctxt "Device connection"
+msgid "Connected"
+msgstr "Verbonden"
+
+msgctxt "Device connection"
+msgid "Connecting"
+msgstr "Verbinden"

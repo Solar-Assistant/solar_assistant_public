@@ -1,0 +1,526 @@
+## "msgid"s in this file come from POT (.pot) files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid "Current"
+msgstr "Corriente PV"
+
+#, fuzzy
+msgid "Voltage"
+msgstr "Tensión PV"
+
+#, fuzzy
+msgid "Power"
+msgstr "Potencia PV"
+
+msgid "State of charge"
+msgstr "Estado de carga"
+
+msgid "Capacity"
+msgstr "Capacidad"
+
+msgid "Cycles"
+msgstr "Ciclos"
+
+msgid "Charge capacity"
+msgstr "Capacidad de carga"
+
+msgid "Cell temperature"
+msgstr "Temperatura de la celda"
+
+msgid "Cell voltage"
+msgstr "Voltaje de la celda"
+
+msgid "Time of day"
+msgstr "Hora del día"
+
+#, fuzzy
+msgid "Frequency"
+msgstr "Frecuencia"
+
+msgid "Device mode"
+msgstr "Modo del dispositivo"
+
+msgid "Provider"
+msgstr "Proveedor"
+
+msgid "Provider connection"
+msgstr "Conexión del proveedor"
+
+msgid "Provider area"
+msgstr "Área del proveedor"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+#, fuzzy
+msgid "Temperature MOS"
+msgstr "Temperatura MOS"
+
+#, fuzzy
+msgid "Temperature ENV"
+msgstr "Temperatura ENV"
+
+msgid "Bus voltage"
+msgstr "Tensión del bus"
+
+msgid "Load percentage"
+msgstr "Porcentaje de carga"
+
+msgid "Load power"
+msgstr "Potencia de carga"
+
+msgid "Load apparent power"
+msgstr "Potencia aparente de carga"
+
+msgid "AC output voltage"
+msgstr "Tensión de salida AC"
+
+msgid "AC output frequency"
+msgstr "Frecuencia de salida AC"
+
+msgid "AC output power"
+msgstr "Potencia de salida AC"
+
+msgid "PV power"
+msgstr "Potencia PV"
+
+msgid "PV voltage"
+msgstr "Tensión PV"
+
+msgid "PV current"
+msgstr "Corriente PV"
+
+msgid "Battery state of charge"
+msgstr "Estado de carga de la batería"
+
+msgid "Battery voltage"
+msgstr "Tensión de la batería"
+
+msgid "Battery current"
+msgstr "Corriente de la batería"
+
+msgid "Battery power"
+msgstr "Potencia de la batería"
+
+msgid "Grid voltage"
+msgstr "Tensión de la red"
+
+msgid "Grid frequency"
+msgstr "Frecuencia de la red"
+
+msgid "Grid power"
+msgstr "Potencia de la red"
+
+msgid "Output source priority"
+msgstr "Prioridad de la fuente de salida"
+
+msgid "AC input voltage range"
+msgstr "Rango de voltaje de entrada AC"
+
+msgid "Back to battery capacity"
+msgstr "Capacidad de vuelta a la batería"
+
+msgid "Back to battery voltage"
+msgstr "Voltaje de vuelta a la batería"
+
+msgid "Battery absorption charge voltage"
+msgstr "Voltaje de carga de absorción de la batería"
+
+#, fuzzy
+msgid "Battery charge current"
+msgstr "Corriente de carga de la batería"
+
+#, fuzzy
+msgid "Battery charge power"
+msgstr "Potencia de carga de la batería"
+
+#, fuzzy
+msgid "Battery discharge current"
+msgstr "Corriente de descarga de la batería"
+
+#, fuzzy
+msgid "Battery discharge power"
+msgstr "Potencia de descarga de la batería"
+
+#, fuzzy
+msgid "Battery float charge voltage"
+msgstr "Voltaje de carga flotante de la batería"
+
+#, fuzzy
+msgid "Battery type"
+msgstr "Tipo de batería"
+
+msgid "Buzzer"
+msgstr "Zumbador"
+
+msgid "Charger source priority"
+msgstr "Prioridad de la fuente de carga"
+
+#, fuzzy
+msgid "Discharge time to shutdown L2"
+msgstr "Tiempo de descarga para apagado L2"
+
+msgid "Firmware version"
+msgstr "Versión del firmware"
+
+msgid "Grid regulation"
+msgstr "Regulación de la red"
+
+msgid "LCD backlight"
+msgstr "Retroiluminación LCD"
+
+msgid "LCD reset to default"
+msgstr "Reinicio de LCD a los valores predeterminados"
+
+msgid "Machine type"
+msgstr "Tipo de máquina"
+
+msgid "Max AC input current"
+msgstr "Corriente máxima de entrada AC"
+
+msgid "Max AC output apparent power"
+msgstr "Potencia aparente máxima de salida AC"
+
+msgid "Max AC output current"
+msgstr "Corriente máxima de salida AC"
+
+#, fuzzy
+msgid "Max AC output power"
+msgstr "Potencia máxima de salida AC"
+
+msgid "Max absorption charge time"
+msgstr "Tiempo máximo de carga de absorción"
+
+msgid "Max charge current"
+msgstr "Corriente máxima de carga"
+
+msgid "Max grid charge current"
+msgstr "Corriente máxima de carga de la red"
+
+msgid "Max parallel units"
+msgstr "Unidades máximas en paralelo"
+
+msgid "Model name"
+msgstr "Nombre del modelo"
+
+#, fuzzy
+msgid "Model number"
+msgstr "Número del modelo"
+
+msgid "Nominal battery voltage"
+msgstr "Voltaje nominal de la batería"
+
+msgid "Operation logic"
+msgstr "Lógica de operación"
+
+msgid "Output mode"
+msgstr "Modo de salida"
+
+msgid "Over temperature restart"
+msgstr "Reinicio por sobretemperatura"
+
+msgid "Overload bypass"
+msgstr "Bypass de sobrecarga"
+
+msgid "Overload restart"
+msgstr "Reinicio por sobrecarga"
+
+msgid "PV OK condition"
+msgstr "Condición PV OK"
+
+#, fuzzy
+msgid "PV charge voltage 1"
+msgstr "Voltaje de carga PV 1"
+
+#, fuzzy
+msgid "PV charge voltage 2"
+msgstr "Voltaje de carga PV 2"
+
+#, fuzzy
+msgid "PV charge voltage 3"
+msgstr "Voltaje de carga PV 3"
+
+#, fuzzy
+msgid "PV current 1"
+msgstr "Corriente PV 1"
+
+#, fuzzy
+msgid "PV current 2"
+msgstr "Corriente PV 2"
+
+#, fuzzy
+msgid "PV current 3"
+msgstr "Corriente PV 3"
+
+#, fuzzy
+msgid "PV power 1"
+msgstr "Potencia PV 1"
+
+#, fuzzy
+msgid "PV power 2"
+msgstr "Potencia PV 2"
+
+#, fuzzy
+msgid "PV power 3"
+msgstr "Potencia PV 3"
+
+#, fuzzy
+msgid "PV voltage 1"
+msgstr "Voltaje PV 1"
+
+#, fuzzy
+msgid "PV voltage 2"
+msgstr "Voltaje PV 2"
+
+#, fuzzy
+msgid "PV voltage 3"
+msgstr "Voltaje PV 3"
+
+#, fuzzy
+msgid "PV power balance"
+msgstr "Balance de potencia PV"
+
+msgid "Power saving"
+msgstr "Ahorro de energía"
+
+msgid "Primary source interrupt alarm"
+msgstr "Alarma de interrupción de la fuente principal"
+
+msgid "Record fault code"
+msgstr "Registrar código de fallo"
+
+#, fuzzy
+msgid "Shutdown L2 battery capacity"
+msgstr "Capacidad de la batería L2"
+
+#, fuzzy
+msgid "Shutdown L2 hour"
+msgstr "Hora de apagado L2"
+
+msgid "Shutdown battery capacity"
+msgstr "Capacidad de la batería al apagar"
+
+msgid "Shutdown battery voltage"
+msgstr "Voltaje de la batería al apagar"
+
+msgid "Solar feed to grid"
+msgstr "Alimentación solar a la red"
+
+#, fuzzy
+msgid "Start L2 hour"
+msgstr "Hora de inicio L2"
+
+#, fuzzy
+msgid "System and load power"
+msgstr "Potencia del sistema y la carga"
+
+msgid "To grid battery capacity"
+msgstr "Capacidad de batería a la red"
+
+msgid "To grid battery voltage"
+msgstr "Voltaje de batería a la red"
+
+msgid "Topology"
+msgstr "Topología"
+
+msgid "Battery equalization"
+msgstr "Equalización de batería"
+
+msgid "Battery equalize now"
+msgstr "Equalizar batería ahora"
+
+msgid "Battery equalization voltage"
+msgstr "Voltaje de equalización de batería"
+
+msgid "Battery equalization time"
+msgstr "Tiempo de equalización de batería"
+
+msgid "Battery equalization timeout"
+msgstr "Tiempo de espera de equalización de batería"
+
+msgid "Battery equalization interval"
+msgstr "Intervalo de equalización de batería"
+
+msgid "Battery low voltage alarm start"
+msgstr "Inicio de alarma de bajo voltaje de batería"
+
+msgid "Battery low voltage alarm stop"
+msgstr "Parada de alarma de bajo voltaje de batería"
+
+#, fuzzy
+msgid "Battery over discharge voltage"
+msgstr "Voltaje de sobre descarga de batería"
+
+#, fuzzy
+msgid "Battery over discharge delay"
+msgstr "Retraso de sobre descarga de batería"
+
+msgid "RS485 address"
+msgstr "Dirección RS485"
+
+msgid "System time"
+msgstr "Hora del sistema"
+
+msgid "System date"
+msgstr "Fecha del sistema"
+
+msgid "Protocol version"
+msgstr "Versión del protocolo"
+
+#, fuzzy
+msgid "Serial number"
+msgstr "Número de serie"
+
+msgid "Firmware date"
+msgstr "Fecha del firmware"
+
+msgid "Secondary firmware version"
+msgstr "Versión de firmware secundaria"
+
+#, fuzzy
+msgid "Battery charge recovery voltage"
+msgstr "Voltaje de recuperación de carga de batería"
+
+#, fuzzy
+msgid "Max PV charge current"
+msgstr "Corriente máxima de carga PV"
+
+msgctxt "Monitoring connection"
+msgid "Direct cable"
+msgstr "Cable directo"
+
+msgctxt "Topology"
+msgid "Transformerless"
+msgstr "Sin transformador"
+
+msgctxt "Machine type"
+msgid "Off Grid"
+msgstr "Fuera de la red"
+
+msgctxt "Output mode"
+msgid "Single machine output"
+msgstr "Salida de máquina única"
+
+msgctxt "Output mode"
+msgid "Parallel output"
+msgstr "Salida en paralelo"
+
+msgctxt "Output mode"
+msgid "Phase 1 of 3 Phase output"
+msgstr "Fase 1 de salida trifásica"
+
+msgctxt "Output mode"
+msgid "Phase 2 of 3 Phase output"
+msgstr "Fase 2 de salida trifásica"
+
+msgctxt "Output mode"
+msgid "Phase 3 of 3 Phase output"
+msgstr "Fase 3 de salida trifásica"
+
+msgctxt "AC input voltage range"
+msgid "Appliance"
+msgstr "Electrodoméstico"
+
+msgctxt "AC input voltage range"
+msgid "UPS"
+msgstr "UPS"
+
+msgctxt "Device mode"
+msgid "Initializing"
+msgstr "Inicializando"
+
+msgctxt "Device mode"
+msgid "Fault"
+msgstr "Falla"
+
+msgctxt "Device mode"
+msgid "Flash"
+msgstr "Flash"
+
+msgctxt "Device mode"
+msgid "Solar/Battery"
+msgstr "Solar/Batería"
+
+msgctxt "Device mode"
+msgid "Hybrid"
+msgstr "Híbrido"
+
+msgctxt "Device mode"
+msgid "Solar/Grid"
+msgstr "Solar/Red"
+
+msgctxt "Device mode"
+msgid "Battery/Grid"
+msgstr "Batería/Red"
+
+msgctxt "Device mode"
+msgid "Grid"
+msgstr "Red"
+
+msgctxt "Output source priority"
+msgid "Utility first"
+msgstr "Primero utilidad"
+
+msgctxt "Output source priority"
+msgid "Solar/Utility/Battery"
+msgstr "Solar/Utilidad/Batería"
+
+msgctxt "Output source priority"
+msgid "Solar/Battery/Utility"
+msgstr "Solar/Batería/Utilidad"
+
+#, fuzzy
+msgctxt "Charger source priority"
+msgid "Utility first"
+msgstr "Primero utilidad"
+
+msgctxt "Charger source priority"
+msgid "Solar first"
+msgstr "Primero solar"
+
+msgctxt "Charger source priority"
+msgid "Solar and utility simultaneously"
+msgstr "Solar y utilidad simultáneamente"
+
+msgctxt "Charger source priority"
+msgid "Solar only"
+msgstr "Solo solar"
+
+msgctxt "Operation logic"
+msgid "Automatic"
+msgstr "Automático"
+
+msgctxt "Operation logic"
+msgid "Online mode"
+msgstr "Modo en línea"
+
+msgctxt "Operation logic"
+msgid "ECO mode"
+msgstr "Modo ECO"
+
+msgctxt "Interface status"
+msgid "Up"
+msgstr "Arriba"
+
+msgctxt "Interface status"
+msgid "Down"
+msgstr "Abajo"
+
+msgctxt "Device connection"
+msgid "Connected"
+msgstr "Conectado"
+
+msgctxt "Device connection"
+msgid "Connecting"
+msgstr "Conectando"
